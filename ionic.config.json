@@ -1,0 +1,7 @@
+{
+  "name": "dev-coffee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
